@@ -1,4 +1,4 @@
- #BananaPrint
+#BananaPrint
 
 ## Inspiration
 We were inspired by the recent build keynotes, and their focus on accessibility, and also leveraging the cloud to improve accessibility. We also think 3D printing is super cool.
