@@ -7,7 +7,7 @@ We were inspired by the recent build keynotes, and their focus on accessibility,
 Converts verbal commands to physical output. 
 
 ## How we built it
-We used a combination of Microsoft Speech Recognition APIs, the Microsoft LUIS API, and the 3D printing dialog from Windows 10. And we rolled it all into an easy to use Windows UWP App.
+We used a combination of [Microsoft Speech Recognition APIs](https://www.microsoft.com/cognitive-services/en-us/speech-api/documentation/getstarted/get-started-csharp-win10), the [Microsoft LUIS API](https://www.luis.ai/), and the [3D printing dialog from Windows 10](https://msdn.microsoft.com/en-us/windows/hardware/bg183398.aspx). And we rolled it all into an easy to use Windows UWP App.
 
 ## Challenges we ran into
 The docs for the Speech APIs were tough to navigate without assistance from our friends at Microsoft. We also added an unnecessary step to our print process, which introduced a troublesome bug. And last but not least, we spent a few hours troubleshooting some issues targeting the correct windows platform on our dev machines.
@@ -24,3 +24,5 @@ We already knew it, but the concepts were reinforced: Microsoft has so much tech
 * Tests (it was a hackathon after all)
 * Your ideas coming to life
 
+##On Youtube
+[Submission Video](https://www.youtube.com/watch?v=NToUL1M5OXQ)
